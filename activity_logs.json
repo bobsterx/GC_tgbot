@@ -1,0 +1,18 @@
+[
+  {
+    "type": "user_registered",
+    "timestamp": "07.11.2025 20:11:12",
+    "details": {
+      "username": "psych0phobia",
+      "user_id": "7254077912"
+    }
+  },
+  {
+    "type": "user_registered",
+    "timestamp": "07.11.2025 20:11:12",
+    "details": {
+      "username": "bobsterx",
+      "user_id": "5961251772"
+    }
+  }
+]
